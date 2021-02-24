@@ -8,7 +8,7 @@ We need to implement a class and a with of specified methods.
 If you are interested in my comments and approach, I invite you
 to visit the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/02/24/implement-trie-prefix-tree/
 
 Keep in mind that the best way to learn is to read and experiemnt.
 Enjoy;
